@@ -1,0 +1,43 @@
+.bodycontainer{
+
+  background-color: #e8e8e8;
+    height: 850px;
+    width: auto;
+    margin: 25px auto;
+}
+.header.container {
+  height: 150px;
+  width: auto;
+  margin: opx auto;
+  margin: 0px auto;
+}
+.input-group.add-on {
+  margin: 52px 1px;
+  width: auto;
+  width: 500px;
+}
+
+.btnadd{
+  float: right;
+    margin: 44px 0px;
+    margin-right: -101px;
+    padding: 9px 18px;
+    border: none;
+    background-color: #f0ad4e;
+    color: white;
+    font-weight: 114px;
+    font-size: 21px;
+    border-radius: 4px;
+}
+button.btn.btn-default.del {
+  background-color: #f76161;
+}
+
+button.btn.btn-default.edit {
+  background-color: lightblue;
+}
+
+.containerimg{
+  background: cadetblue;
+}
+
