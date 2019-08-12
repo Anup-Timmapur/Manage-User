@@ -1,7 +1,5 @@
 import { Routes,RouterModule } from "@angular/router";
 import { UserprofileComponent } from './userprofile/userprofile.component';
-// import { AdduserComponent } from './userprofile/adduser/adduser.component';
-// import { EdituserComponent } from './userprofile/edituser/edituser.component';
 
 
 
